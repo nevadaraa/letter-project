@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `First of all, I'm really sorry for everything that happens between us.\nCause i know that, I hurt you without thinking. You know bub? i don't really want to break up, i think i just want some time to thinking but then, i think it's the best for us to end it up. I love you, but i have to let you go. the timing is not right and I am still full of ambition .\n\nWe are happy, we are love each other but.. I'm sorry that i can't even hold "us" more longer cause the universe just never gave us enough place.\n\nAnd now, i choose to go. for the best of us and for not hurting you more.\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
